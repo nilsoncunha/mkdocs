@@ -1,0 +1,8 @@
+- Dá necessidade de documentar o projeto
+- Já temos o dbdocs rodando
+- Precisava documentar o restante
+- E qual ferramenta utilizar? 
+    - PowerPoint
+    - Google Docs
+    - Word
+- Procurei outra opção
