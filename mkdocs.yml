@@ -19,6 +19,7 @@ theme:
 # Estilizações na documentação
     language: pt
     favicon: img/a3_icon.ico
+    logo: img/a3_icon.ico
     features: 
       - search.suggest
       - search.highlight
